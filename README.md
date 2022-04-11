@@ -67,7 +67,7 @@ Akshat Saxena
 Krish Srinivas
 
 <p align="center">
-<img src = "https://mail.google.com/mail/u/0?ui=2&ik=f55a47389d&attid=0.1&permmsgid=msg-a:r-7071787019983252408&th=18017cedf25d0f86&view=att&disp=safe&realattid=18017cebc6cfb9594821"  height="120" alt="Your Name Here (Insert Your Image Link In Src">
+<img src = "https://avatars.githubusercontent.com/u/54949576?s=400&v=4"  height="120" alt="Your Name Here (Insert Your Image Link In Src">
 </p>
 <p align="center">
 <a href = "https://github.com/equinox777"><img src = "http://www.iconninja.com/files/241/825/211/round-collaboration-social-github-code-circle-network-icon.svg" width="36" height = "36"/></a>
