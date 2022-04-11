@@ -49,11 +49,11 @@ Eeshan Dutta
 Akshat Saxena
 
 <p align="center">
-<img src = "https://avatars.githubusercontent.com/u/60739970?v=4"  height="120" alt="Your Name Here (Insert Your Image Link In Src">
+<img src = "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.dscommunity.in%2Fpeople&psig=AOvVaw1Kzj5GqtM92zG7JokjqmJD&ust=1649752845635000&source=images&cd=vfe&ved=0CAoQjRxqFwoTCPj6v4bNi_cCFQAAAAAdAAAAABAD"  height="120" alt="Your Name Here (Insert Your Image Link In Src">
 </p>
 <p align="center">
 <a href = "https://github.com/savss624"><img src = "http://www.iconninja.com/files/241/825/211/round-collaboration-social-github-code-circle-network-icon.svg" width="36" height = "36"/></a>
-<a href = "https://www.linkedin.com/in/parth-srivastava-949742192">
+<a href = "https://www.linkedin.com/in/akshat-saxena-58b5a31a7">
 <img src = "http://www.iconninja.com/files/863/607/751/network-linkedin-social-connection-circular-circle-media-icon.svg" width="36" height="36"/>
 </a>
 </p>
@@ -67,11 +67,11 @@ Akshat Saxena
 Krish Srinivas
 
 <p align="center">
-<img src = "https://avatars.githubusercontent.com/u/52789205?v=4"  height="120" alt="Your Name Here (Insert Your Image Link In Src">
+<img src = "https://mail.google.com/mail/u/0?ui=2&ik=f55a47389d&attid=0.1&permmsgid=msg-a:r-7071787019983252408&th=18017cedf25d0f86&view=att&disp=safe&realattid=18017cebc6cfb9594821"  height="120" alt="Your Name Here (Insert Your Image Link In Src">
 </p>
 <p align="center">
-<a href = "https://github.com/soham-2411"><img src = "http://www.iconninja.com/files/241/825/211/round-collaboration-social-github-code-circle-network-icon.svg" width="36" height = "36"/></a>
-<a href = "https://www.linkedin.com/in/soham-sakaria-13251718b/">
+<a href = "https://github.com/equinox777"><img src = "http://www.iconninja.com/files/241/825/211/round-collaboration-social-github-code-circle-network-icon.svg" width="36" height = "36"/></a>
+<a href = "https://www.linkedin.com/in/krish-srinivas-a73b751ba/">
 <img src = "http://www.iconninja.com/files/863/607/751/network-linkedin-social-connection-circular-circle-media-icon.svg" width="36" height="36"/>
 </a>
 </p>
@@ -85,11 +85,11 @@ Krish Srinivas
 Ashish Kashyap
 
 <p align="center">
-<img src = "https://avatars.githubusercontent.com/u/55892170?v=4"  height="120" alt="Your Name Here (Insert Your Image Link In Src">
+<img src = "https://avatars.githubusercontent.com/u/73338756?v=4"  height="120" alt="Your Name Here (Insert Your Image Link In Src">
 </p>
 <p align="center">
-<a href = "https://github.com/ParthPandey2236"><img src = "http://www.iconninja.com/files/241/825/211/round-collaboration-social-github-code-circle-network-icon.svg" width="36" height = "36"/></a>
-<a href = "https://www.linkedin.com/in/parth-pandey-b119921a7/">
+<a href = "https://github.com/ashishkashyap-007"><img src = "http://www.iconninja.com/files/241/825/211/round-collaboration-social-github-code-circle-network-icon.svg" width="36" height = "36"/></a>
+<a href = "https://www.linkedin.com/in/ashish-kashyap-184291200">
 <img src = "http://www.iconninja.com/files/863/607/751/network-linkedin-social-connection-circular-circle-media-icon.svg" width="36" height="36"/>
 </a>
 </p>
