@@ -1,5 +1,15 @@
 ### Skecz
 
+SketchArt is a flutter application based on selling of art/paintings in the
+digital market. In the current market , due to COVID 19, many artists have lost
+their jobs and also all public art galleries and public auction of paintings
+are closed. This is where ThinkArt comes in. This application has everything a
+customer wants when going to look for buying a painting in the market and also
+simultaneously giving business to the artists. This application is totally different from anything
+there is in the market right now with the most notable features being :-
+
+-> Converting any live image to sketch.
+
 <p float="left">
 <img src = "Land.png" height=300>
 <img src = "Sketch.png" height=300>
