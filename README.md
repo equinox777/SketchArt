@@ -1,4 +1,4 @@
-### Skecz
+### SketchArt
 
 SketchArt is a flutter application based on selling of art/paintings in the
 digital market. In the current market , due to COVID 19, many artists have lost
