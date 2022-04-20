@@ -32,7 +32,7 @@ These are other images of the application showing the intuitive UI of the applic
 In the current market, there is no proper application around the monopoly of paintings. With ThinkArt, we are providing features that will cover A-Z of anyone who wants to buy/understand a painting and also employ/give work to artists/painters who are out of jobs because of closed Art galleries/public art auctions. This is a platform for artists/painters to showcase their work and also customers to enjoy the art and buy happiness in their house. We aim to provide a bridge between artists/painters and common people/customers and thereby uplifting this niche industry and bring happiness to everyone.
 
 #### Thanking You,
-#### Team Ctrl Alt Elite
+#### Team Vibes
 
 ## Developers
 
